@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebaea428-e5f0-4c1c-b685-a8dd7bc57e0c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\localRepository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1kLrBJT2r1F4svOWxSARFZ3YfZu" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/openjdk/jol/jol-core/0.8" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39558825" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NettyWebSocketServer">
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat.groupChat.GroupChatClient" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat.groupChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeartBeatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat.heartRate.HeartBeatServer" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat.heartRate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyWebSocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat.webSocketL.NettyWebSocketServer" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat.webSocketL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Netty/chat/webSocketL/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.HeartBeatServer" />
+      <item itemvalue="Application.NettyWebSocketServer" />
+      <item itemvalue="JavaScript Debug.hello.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hello.html" />
+        <item itemvalue="Application.NettyWebSocketServer" />
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.HeartBeatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebaea428-e5f0-4c1c-b685-a8dd7bc57e0c" name="Default Changelist" comment="" />
+      <created>1605490575546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605490575546</updated>
+      <workItem from="1605490578597" duration="17834000" />
+      <workItem from="1605596621893" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
